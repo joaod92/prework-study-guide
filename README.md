@@ -1,7 +1,6 @@
 # <Prework Study Guide - Joao Santos>
 
 ## Description
-
 Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
 
 - What was your motivation?   Working in the digital field 
@@ -11,11 +10,9 @@ Provide a short description explaining the what, why, and how of your project. U
 
 
 ## Installation
-
 n/a
 
 ## Usage
-
 Contains some work on the fundamentals of web development and usage of programming languages used in Front-end such as CSS, JS, and HTML. A good project to look-back upon if there are any doubts. 
 
 ## Credits
@@ -23,6 +20,4 @@ Contains some work on the fundamentals of web development and usage of programmi
 n/a
 
 ## License
-
 MIT license
-
